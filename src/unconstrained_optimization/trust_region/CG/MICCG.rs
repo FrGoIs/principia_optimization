@@ -4,6 +4,4 @@
 /// ```
 ///
 /// ```
-pub fn MICCG() {
-}
-
+pub fn MICCG() {}
