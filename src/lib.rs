@@ -1,4 +1,4 @@
-extern crate nalgebra as na;
+pub extern crate nalgebra as na;
 
 use na::Matrix3;
 
